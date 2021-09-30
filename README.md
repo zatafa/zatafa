@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Voahangy Joan Aléonard
 
-- 🌱 I’m currently following OpenClassrooms course as AI Engineer, in partnership with Microsoft and Centrale Supelec. I'm learning Data Science, Machine and Deep learning and Artificial intelligence([Details here](https://openclassrooms.com/fr/paths/188-ingenieur-ia))
+- 🌱 I’m currently following OpenClassrooms course as AI Engineer, in partnership with Microsoft and Centrale Supelec. I'm learning Data Science, Machine and Deep learning and Artificial intelligence. Details can be found [here](https://openclassrooms.com/fr/paths/188-ingenieur-ia).
 
 - 👀 I'm really interested in problem solving and decision taking with data ;  my focus is to create, apply and modify algorithms/models to solve challenging business problem.
 
