@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Voahangy Joan @zatafa
-- 👀 I’m interested in creating, applying and modifying algorithms to solve challenging business problem, with strong self-motivation, passion for problem solving with data.
-- 🌱 I’m currently following OpenClassrooms course: AI Engineer ([Details here](https://openclassrooms.com/fr/paths/188-ingenieur-ia))
+- 👋 Hi, I’m Voahangy Joan Aléonard
+- 🌱 I’m currently following OpenClassrooms course: AI Engineer and I'm learning Data Science, Machine and Deep learning and Artificial intelligence([Details here](https://openclassrooms.com/fr/paths/188-ingenieur-ia))
+- 👀 I'm really interested in problem solving and decision taking with data ;  my focus is to create, apply and modify algorithms/models to solve challenging business problem.
 - 💞️ I’m looking to collaborate on real world or research experience in data science.
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/joanaleonard/)
 
