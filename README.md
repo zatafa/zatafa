@@ -23,7 +23,7 @@
 
 ## Machine Learning: Supervised / Non Supervised
 - Credit Scoring model: [Classification models with imbalanced data](https://github.com/zatafa/4_OC_AI_Credit_Risk_Model)
-- Customer Segmentation
+- Customer Segmentation: [Clustering with KMeans](https://github.com/zatafa/5_OC_AI_Customer_Segmentation)
 
 ## Deep Learning : Natural Language Processing (NLP) / Computer Vision (CV)
 - Image Classification and Topic Modeling for a restaurant
