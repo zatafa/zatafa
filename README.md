@@ -6,17 +6,24 @@
 - 
 - 💞️ I’m looking to collaborate on real world or research experience in data science.
 - 
-- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/joanaleonard/)
+- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/vjoanaleonard/)
 
-# Technical skills 💻
+# 💻 Technical skills 
 
 - 👩‍💻 Programming language(s): Python
 - 👩‍🔬 Data Science: pandas, numpy, scikit-learn, tensorflow, keras
 - 📊 Data Viz: matplotlib, seaborn, plotly
 - ☁️ Cloud Computing: Microsoft Azure
 
-# Projet portfolio
+# 📋 Projet portfolio
+## Data Science
 
+## Machine Learning: Supervised / Non Supervised
+
+## Deep Learning : Natural Language Processing (NLP) / Computer Vision (CV)
+
+## Microsoft Azure
+- Azure Account and [Language detection](https://github.com/zatafa/1_OC_AI_Language_detection)
 
 <!---
 zatafa/zatafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
