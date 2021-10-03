@@ -29,12 +29,13 @@
 - Image Classification and Topic Modeling for a restaurant
 - Sentiment Analysis to prevent Bad Buzz
 - Semantic Segmentation for Autonomous Vehicles
+- Recommendations Systems in Mobile App
 
 ## Microsoft Azure
-- Azure Account and [Language detection](https://github.com/zatafa/1_OC_AI_Language_detection)
+- 1st Azure Account and Azure Cognitive Services: [Language detection](https://github.com/zatafa/1_OC_AI_Language_detection)
 - Azure Sentiment Analysis
 - Azure Machine Learning Studio - Designer
-- Mobile App for books' Recommendations
+- Develop and Deploy Azure Functions with Visual Studio Code
 - Chabot to book flights
 
 <!---
