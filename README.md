@@ -27,7 +27,7 @@
 
 ## Deep Learning : Natural Language Processing (NLP) / Computer Vision (CV)
 - Image Classification and Topic Modeling for a restaurant: [Latent Dirichlet Allocation / Convolutional Neural Network](https://github.com/zatafa/6_OC_AI_TopicModeling_ImgClassification)
-- Sentiment Analysis to prevent Bad Buzz: [Recurent Neural Network](https://github.com/zatafa/7_OC_AI_Sentiment_Analysis)
+- Sentiment Analysis to prevent Bad Buzz: [Recurrent Neural Network](https://github.com/zatafa/7_OC_AI_Sentiment_Analysis) (incl. LSTM) and word embeddings
 - Semantic Segmentation for Autonomous Vehicles
 - Recommendations Systems in Mobile App
 
