@@ -11,6 +11,7 @@
 # 💻 Technical skills 
 
 - 👩‍💻 Programming language(s): Python
+- :hammer_and_wrench: Development tools : Anaconda and Jupyter Notebook, Google Colaboratory, Visual Studio Code, Github
 - 👩‍🔬 Data Science: pandas, numpy, scikit-learn, tensorflow, keras
 - 📊 Data Viz: matplotlib, seaborn, plotly
 - ☁️ Cloud Computing: Microsoft Azure
