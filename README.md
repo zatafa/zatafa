@@ -26,7 +26,7 @@
 - Customer Segmentation: [Clustering with KMeans](https://github.com/zatafa/5_OC_AI_Customer_Segmentation)
 
 ## Deep Learning : Natural Language Processing (NLP) / Computer Vision (CV)
-- Image Classification and Topic Modeling for a restaurant
+- Image Classification and Topic Modeling for a restaurant: [Latent Dirichlet Allocation / vgg16 transfer learning](https://github.com/zatafa/6_OC_AI_TopicModeling_ImgClassification)
 - Sentiment Analysis to prevent Bad Buzz
 - Semantic Segmentation for Autonomous Vehicles
 - Recommendations Systems in Mobile App
