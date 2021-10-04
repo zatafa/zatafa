@@ -34,7 +34,7 @@
 
 ## Microsoft Azure
 - 1st Azure Account and Azure Cognitive Services: [Language detection](https://github.com/zatafa/1_OC_AI_Language_detection)
-- Azure Sentiment Analysis: [Tweet analysis with Text Analytics](https://github.com/zatafa/7_OC_AI_Sentiment_Analysis/tree/main/1.%20Turn-key%20Solution%20(MS%20Azure%20Sentiment%20Analysis%20API)
+- Azure Sentiment Analysis: [Tweet analysis with Text Analytics](https://github.com/zatafa/7_OC_AI_Sentiment_Analysis/tree/main/1.%20Turn-key%20Solution%20(MS%20Azure%20Sentiment%20Analysis%20API))
 - Azure Machine Learning Studio - Designer: [Tweet Sentiment classification with Logistic regression](https://github.com/zatafa/7_OC_AI_Sentiment_Analysis/tree/main/2.%20Low-code%20Solution%20(MS%20AMLS%20Designer))
 - Develop and Deploy Azure Functions with Visual Studio Code
 - Chabot to book flights
