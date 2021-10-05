@@ -30,15 +30,16 @@
 - Image Classification and Topic Modeling for a restaurant: [Latent Dirichlet Allocation / Convolutional Neural Network](https://github.com/zatafa/6_OC_AI_TopicModeling_ImgClassification)
 - Sentiment Analysis to prevent Bad Buzz: [Recurrent Neural Network](https://github.com/zatafa/7_OC_AI_Sentiment_Analysis) (incl. LSTM) and word embeddings
 - Semantic Segmentation for Autonomous Vehicles
-- Recommendations Systems in Mobile App
+- [Recommendations Systems](https://github.com/zatafa/9_OC_AI_Recommendations_Systems) in Mobile App
+- Chabot to book flights
 
 ## Microsoft Azure
 - 1st Azure Account and Azure Cognitive Services: [Language detection](https://github.com/zatafa/1_OC_AI_Language_detection)
 - Azure Sentiment Analysis: [Tweet analysis with Text Analytics](https://github.com/zatafa/7_OC_AI_Sentiment_Analysis/tree/main/1.%20Turn-key%20Solution%20(MS%20Azure%20Sentiment%20Analysis%20API))
 - Azure Machine Learning Studio - Designer: [Tweet Sentiment classification with Logistic regression](https://github.com/zatafa/7_OC_AI_Sentiment_Analysis/tree/main/2.%20Low-code%20Solution%20(MS%20AMLS%20Designer))
 - Deploy a [GloVe LSTM model in ACI (Azure Container Instances)](https://github.com/zatafa/7_OC_AI_Sentiment_Analysis/tree/main/4.%20Best%20model%20deployment) and publish endpoint
-- Develop and Deploy Azure Functions with Visual Studio Code
-- Chabot to book flights
+- [Develop and Deploy Azure Functions with Visual Studio Code](https://github.com/zatafa/9_OC_AI_Recommendations_Systems)
+- Use LUIS (Language Understanding) and Azure Web App to develop a chatbot
 
 <!---
 zatafa/zatafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
