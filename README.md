@@ -15,31 +15,34 @@
 - 👩‍🔬 Data Science: pandas, numpy, scikit-learn, tensorflow, keras
 - 📊 Data Viz: matplotlib, seaborn, plotly
 - ☁️ Cloud Computing: Microsoft Azure
-- :balance_scale: Awareness on GDPR, Bias and ethical AI: [Project 11](https://github.com/zatafa/11_OC_AI_project_management), [Responsible AI](https://github.com/zatafa/AI_Biais_Privacy_Ethics)
 
 # 📋 Projet portfolio
-## Data Science
+## :books: Data Science
 - Trees of Paris City: [Univariate Data Analysis](https://github.com/zatafa/2_OC_AI_Univariate_Data_Analysis)
 - Open Food Facts: [Mutivariate Data Analysis](https://github.com/zatafa/3_OC_AI_Multivariate_Data_Analysis)
 
-## Machine Learning: Supervised / Non Supervised
+## :test_tube: Machine Learning: Supervised / Non Supervised
 - Credit Scoring model: [Classification models with imbalanced data](https://github.com/zatafa/4_OC_AI_Credit_Risk_Model)
 - Customer Segmentation: [Clustering with KMeans](https://github.com/zatafa/5_OC_AI_Customer_Segmentation)
 
-## Deep Learning : Natural Language Processing (NLP) / Computer Vision (CV)
+## :gear: Deep Learning : Natural Language Processing (NLP) / Computer Vision (CV)
 - Image Classification and Topic Modeling for a restaurant: [Latent Dirichlet Allocation / Convolutional Neural Network](https://github.com/zatafa/6_OC_AI_TopicModeling_ImgClassification)
 - Sentiment Analysis to prevent Bad Buzz: [Recurrent Neural Network](https://github.com/zatafa/7_OC_AI_Sentiment_Analysis) (incl. LSTM) and word embeddings
 - Semantic Segmentation for Autonomous Vehicles
 - [Recommendations Systems](https://github.com/zatafa/9_OC_AI_Recommendations_Systems) in Mobile App
 - Chabot to book flights
 
-## Microsoft Azure
+## ☁️ Microsoft Azure
 - 1st Azure Account and Azure Cognitive Services: [Language detection](https://github.com/zatafa/1_OC_AI_Language_detection)
 - Azure Sentiment Analysis: [Tweet analysis with Text Analytics](https://github.com/zatafa/7_OC_AI_Sentiment_Analysis/tree/main/1.%20Turn-key%20Solution%20(MS%20Azure%20Sentiment%20Analysis%20API))
 - Azure Machine Learning Studio - Designer: [Tweet Sentiment classification with Logistic regression](https://github.com/zatafa/7_OC_AI_Sentiment_Analysis/tree/main/2.%20Low-code%20Solution%20(MS%20AMLS%20Designer))
 - Deploy a [GloVe LSTM model in ACI (Azure Container Instances)](https://github.com/zatafa/7_OC_AI_Sentiment_Analysis/tree/main/4.%20Best%20model%20deployment) and publish endpoint
 - [Develop and Deploy Azure Functions with Visual Studio Code](https://github.com/zatafa/9_OC_AI_Recommendations_Systems)
 - Use LUIS (Language Understanding) and Azure Web App to develop a chatbot
+
+## :balance_scale: Awareness on GDPR, Bias and ethical AI
+- [Manage AI project](https://github.com/zatafa/11_OC_AI_project_management)
+- [Responsible AI resources](https://github.com/zatafa/AI_Biais_Privacy_Ethics)
 
 <!---
 zatafa/zatafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
