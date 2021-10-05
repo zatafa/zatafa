@@ -15,7 +15,7 @@
 - 👩‍🔬 Data Science: pandas, numpy, scikit-learn, tensorflow, keras
 - 📊 Data Viz: matplotlib, seaborn, plotly
 - ☁️ Cloud Computing: Microsoft Azure
-- :balance_scale: Awareness on GDPR, Bias and ethical AI
+- :balance_scale: Awareness on GDPR, Bias and ethical AI: [Project 11](https://github.com/zatafa/11_OC_AI_project_management), [Responsible AI](https://github.com/zatafa/AI_Biais_Privacy_Ethics)
 
 # 📋 Projet portfolio
 ## Data Science
