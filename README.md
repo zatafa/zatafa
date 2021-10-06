@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to collaborate on real world or research experience in data science.
 
-- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/vjoanaleonard/)
+- 📫 How to reach me : **I can add you as a collaborator if needed**
 
 # 💻 Technical skills 
 
