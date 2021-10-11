@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to collaborate on real world or research experience in data science.
 
-- 📫 How to reach me : **I can add you as a collaborator if needed**
+- 📫 How to reach me : **I can add you as a collaborator if needed** and share my LinkedIn details too. Keep in touch!
 
 # 💻 Technical skills 
 
