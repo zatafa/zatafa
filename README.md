@@ -16,7 +16,7 @@
 - 📊 Data Viz: matplotlib, seaborn, plotly
 - ☁️ Cloud Computing: Microsoft Azure
 
-# 📋 Projet portfolio
+# 📋 Projets' portfolio
 ## :books: Data Science
 - Trees of Paris City: [Univariate Data Analysis](https://github.com/zatafa/2_OC_AI_Univariate_Data_Analysis)
 - Open Food Facts: [Mutivariate Data Analysis](https://github.com/zatafa/3_OC_AI_Multivariate_Data_Analysis)
