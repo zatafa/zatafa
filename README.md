@@ -1,10 +1,10 @@
 # 👋 About me
 
-- 🌱 I’m currently following OpenClassrooms training program (Artificial Intelligence Engineer), developed in partnership with Microsoft and Centrale Supelec. I'm learning Data Science, Machine and Deep learning, Cloud computing with Microsoft Azure and and deployment of algorithms into production. Details can be found [here](https://openclassrooms.com/fr/paths/188-ingenieur-ia).
+- 🌱 I’m currently finalizing OpenClassrooms training program (Artificial Intelligence Engineer), developed in partnership with Microsoft and Centrale Supelec. I'm learning Data Science, Machine and Deep learning, Cloud computing with Microsoft Azure and and deployment of algorithms into production. Details can be found [here](https://openclassrooms.com/fr/paths/188-ingenieur-ia).
 
-- 👀 I'm really interested in problem solving and decision taking with data ;  my focus is to create, apply and modify algorithms/models to solve challenging business problem.
+- 💞️ I'm really interested in problem solving and decision taking with data ;  my focus is to develop, optimize and reformulate repeatable models to solve challenging and high-value business problems, and provide actionable insights.
 
-- 💞️ I’m looking to collaborate on real world or research experience in data science.
+- 👀 I’m looking to collaborate on real world or research experience in data science, to grow as data scientist, ideally, in creation of new capabilities for company's revenue optimization application, in collaboration with product managers and engineers.
 
 - 📫 How to reach me : **I can add you as a collaborator if needed** and share my LinkedIn details too. Keep in touch!
 
