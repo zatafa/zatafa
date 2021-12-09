@@ -1,6 +1,6 @@
 # 👋 About me
 
-- 🌱 I’ve completed an OpenClassrooms training program as Artificial Intelligence Engineer, developed in partnership with Microsoft and Centrale Supelec. Details can be found [here](https://openclassrooms.com/fr/paths/188-ingenieur-ia).
+- 🌱 I’ve completed an OpenClassrooms training program as Artificial Intelligence Engineer (July 2020 - December 2021), developed in partnership with Microsoft and Centrale Supelec. Details can be found [here](https://openclassrooms.com/fr/paths/188-ingenieur-ia).
 
 - 🛫 I keep on learning Data Science, Machine and Deep learning, Cloud computing, and deployment of algorithms into production. 
 
