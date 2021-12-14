@@ -16,6 +16,7 @@
 - :hammer_and_wrench: Development tools : Anaconda and Jupyter Notebook, Google Colaboratory, Visual Studio Code, Github
 - 👩‍🔬 Data Science: pandas, numpy, scikit-learn, tensorflow, keras
 - 📊 Data Viz: matplotlib, seaborn, plotly
+- :speech_balloon: :eye_speech_bubble: Artificial intelligence : NLP (with Sklearn, NTLK, Spacy, Gensim) and Computer Vision (Classification, Semantic Segmentation)
 - ☁️ Cloud Computing: Microsoft Azure
 
 # 📋 Projets' portfolio
@@ -40,8 +41,8 @@
 - Azure Machine Learning Studio - Designer: [Tweet Sentiment classification with Logistic regression](https://github.com/zatafa/7_OC_AI_Sentiment_Analysis/tree/main/2.%20Low-code%20Solution%20(MS%20AMLS%20Designer))
 - Deploy a [GloVe LSTM model in ACI (Azure Container Instances)](https://github.com/zatafa/7_OC_AI_Sentiment_Analysis/tree/main/4.%20Best%20model%20deployment) and publish endpoint
 - [Develop and Deploy Azure Functions with Visual Studio Code](https://github.com/zatafa/9_OC_AI_Recommendations_Systems)
-- Deploy a [Flask API](https://github.com/zatafa/8_OC_AI_CV_Semantic_Segmentation)
-- Use [LUIS (Language Understanding)](https://github.com/zatafa/10_OC_AI_Azure_Bot_Framework/tree/main/luis_app), [Bot Framework SDK](https://github.com/zatafa/10_OC_AI_Azure_Bot_Framework), App Insights and Azure Web App to develop a chatbot.
+- Deploy a [Flask API](https://github.com/zatafa/8_OC_AI_CV_Semantic_Segmentation) to Azure App Service
+- Use [LUIS (Language Understanding)](https://github.com/zatafa/10_OC_AI_Azure_Bot_Framework/tree/main/luis_app), [Bot Framework SDK](https://github.com/zatafa/10_OC_AI_Azure_Bot_Framework), App Insights and Azure App Service to develop a chatbot.
 
 ## :balance_scale: Awareness on GDPR, Bias and ethical AI
 - [Manage AI project](https://github.com/zatafa/11_OC_AI_project_management)
