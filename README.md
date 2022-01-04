@@ -18,6 +18,7 @@
 - 📊 Data Viz: matplotlib, seaborn, plotly
 - :speech_balloon: :eye_speech_bubble: Artificial intelligence : NLP (with Sklearn, NTLK, Spacy, Gensim) and Computer Vision (Classification, Semantic Segmentation)
 - ☁️ Cloud Computing: Microsoft Azure
+- :thought_balloon: Basics of Flask and html templates
 
 # 📋 Projets' portfolio
 ## :books: Data Science
