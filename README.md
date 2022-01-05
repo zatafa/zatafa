@@ -6,7 +6,7 @@
 
 - 💞️ I'm really interested in problem solving and decision taking with data ;  my focus is to develop, optimize and reformulate repeatable models to solve challenging and high-value business problems, and provide actionable insights.
 
-- 👀 I’m looking to collaborate on real world or research experience in data science, to grow as data scientist, ideally, in creation of new capabilities for company's revenue optimization application, in collaboration with product managers and engineers.
+- 👀 I’m looking to collaborate on real world or research experience in data science, to grow as data scientist, ideally, in creation of new capabilities for company's profitability and efficiency, in collaboration with product managers and engineers.
 
 - 📫 How to reach me : **I can add you as a collaborator if needed** and share my LinkedIn details too. Keep in touch!
 
