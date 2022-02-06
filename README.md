@@ -13,12 +13,13 @@
 # 💻 Technical skills 
 
 - 👩‍💻 Programming language(s): Python
-- :hammer_and_wrench: Development tools : Anaconda and Jupyter Notebook, Google Colaboratory, Visual Studio Code, Github
+- :hammer_and_wrench: Development tools : Jupyter Notebook (Anaconda), Google Colaboratory, Visual Studio Code, Github
 - 👩‍🔬 Data Science: pandas, numpy, scikit-learn, tensorflow, keras
 - 📊 Data Viz: matplotlib, seaborn, plotly
 - :speech_balloon: :eye_speech_bubble: Artificial intelligence : NLP (with Sklearn, NTLK, Spacy, Gensim) and Computer Vision (Classification, Semantic Segmentation)
 - ☁️ Cloud Computing: Microsoft Azure
 - :thought_balloon: Basics of Flask and HTML templates
+- :card_file_box: Database : PostgreSQL
 
 # 📋 Projets' portfolio
 ## :books: Data Science
